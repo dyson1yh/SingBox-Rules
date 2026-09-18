@@ -1,0 +1,25 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "test.otaking945.dpdns.org"
+      ],
+      "domain_suffix": [
+        "otaking945.dpdns.org",
+        "bigtradedata.com",
+        "weiwenjia.com",
+        "rili.pro",
+        "freightower.com",
+        "hangyun365.com",
+        "glutran.com",
+        "huodaitianyan.com",
+        "weiyun001.com",
+        "yqn.com",
+        "fobshanghai.com",
+        "tungee.com",
+        "jq22.com"        
+      ]
+    }
+  ]
+}
