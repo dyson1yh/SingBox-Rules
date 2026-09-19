@@ -1,1 +1,32 @@
-
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain": [
+        "test.otaking945.dpdns.org"
+      ],
+      "domain_suffix": [
+        // otaking
+        "otaking945.dpdns.org",
+        // 讯飞语音相关域名
+        "voicecloud.cn",
+        "openspeech.cn",
+        "xfyun.cn",
+        "xunfei.cn",
+        // 工作相关
+        "bigtradedata.com",
+        "weiwenjia.com",
+        "rili.pro",
+        "freightower.com",
+        "hangyun365.com",
+        "glutran.com",
+        "huodaitianyan.com",
+        "weiyun001.com",
+        "yqn.com",
+        "fobshanghai.com",
+        "tungee.com",
+        "jq22.com"
+      ]
+    }
+  ]
+}
